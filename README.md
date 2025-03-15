@@ -1,1 +1,0 @@
-# javascript-lesson7
